@@ -1,6 +1,7 @@
 # Welcome to StackEdit!
 
 2018-11-14_Wed_09.57-AM
+2018-11-14_Wed_10.01-AM
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
@@ -144,5 +145,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODA3NjYxMV19
+eyJoaXN0b3J5IjpbLTE5MzI3MDUxOTYsMTkwODA3NjYxMV19
 -->
